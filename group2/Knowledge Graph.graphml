@@ -1,0 +1,750 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Meta"/>
+<node id="GSM8"/>
+<node id="K"/>
+<node id="Math500"/>
+<node id="AMC"/>
+<node id="ByteDance"/>
+<node id="Magic Bench on Hugging Face"/>
+<node id="377"/>
+<node id="9"/>
+<node id="4+"/>
+<node id="Princeton University"/>
+<node id="amp"/>
+<node id="Gen-Verse"/>
+<node id="TraceRL"/>
+<node id="China"/>
+<node id="RewardDance"/>
+<node id="2.59"/>
+<node id="MoCo/SimCLR"/>
+<node id="2025"/>
+<node id="InfGen"/>
+<node id="4"/>
+<node id="Hugging Face"/>
+<node id="nearly 50%"/>
+<node id="Alibaba Group"/>
+<node id="Visual-CoG"/>
+<node id="Alibaba"/>
+<node id="Tsinghua University"/>
+<node id="MV"/>
+<node id="Huawei Cloud"/>
+<node id="Discrete Diffusion VLA"/>
+<node id="Google DeepMind"/>
+<node id="Max Planck Institute"/>
+<node id="Prophet"/>
+<node id="up to 3.4x"/>
+<node id="UXO Team"/>
+<node id="Tinker"/>
+<node id="zero"/>
+<node id="NVIDIA"/>
+<node id="Lyra"/>
+<node id="up to 4 min 15 sec"/>
+<node id="Skywork AI's"/>
+<node id="RTX 4090"/>
+<node id="One"/>
+<node id="Nanjing University"/>
+<node id="PixNerd"/>
+<node id="Story2Board"/>
+<node id="Voost"/>
+<node id="Diffusion Transformer"/>
+<node id="GE-Base"/>
+<node id="GE-Act"/>
+<node id="GE-Sim"/>
+<node id="ByteDance Seed"/>
+<node id="2,146"/>
+<node id="H20"/>
+<node id="Zero"/>
+<node id="DAEDAL"/>
+<node id="MultiRef"/>
+<node id="first"/>
+<node id="38"/>
+<node id="1000"/>
+<node id="seconds"/>
+<node id="Tencent Hunyuan X"/>
+<node id="X-Omni Reinforcement"/>
+<node id="T-LoRA"/>
+<node id="Diffusion Models"/>
+<node id="one"/>
+<node id="RALU"/>
+<node id="MindJourney"/>
+<node id="only 48"/>
+<node id="UMO"/>
+<node id="Meta &amp;"/>
+<node id="Virginia Tech"/>
+<node id="Apple"/>
+<node id="DiffuCoder"/>
+<node id="MIT-Han-Lab"/>
+<node id="Sber AI's"/>
+<node id="InnerControl"/>
+<node id="91"/>
+<node id="just 6 hours"/>
+<node id="A800"/>
+<node id="Google DeepMind's"/>
+<node id="Blender"/>
+<node id="FreeMorph"/>
+<node id="two"/>
+<node id="2"/>
+<node id="Diffusion Transformers"/>
+<node id="ControlNet"/>
+<node id="ControlNet++"/>
+<node id="FLUX &amp;"/>
+<node id="3x"/>
+<node id="Stable Diffusion 3"/>
+<node id="1,000"/>
+<node id="10"/>
+<node id="Ant Group"/>
+<node id="LangScene-X"/>
+<node id="ACM MM 2025"/>
+<node id="Tencent"/>
+<node id="Pref-GRPO"/>
+<node id="Hyper"/>
+<node id="-"/>
+<node id="Bagel"/>
+<node id="16.67x for"/>
+<node id="22x"/>
+<node id="StepFun AI"/>
+<node id="NextStep-1"/>
+<node id="Iron Man"/>
+<node id="MIT"/>
+<node id="Toyota"/>
+<node id="CNN"/>
+<node id="4K"/>
+<node id="under 10 seconds"/>
+<node id="Tsinghua"/>
+<node id="UC Berkeley"/>
+<node id="95%"/>
+<node id="13.7x kernel"/>
+<node id="2.2x"/>
+<node id="100-200 FPS"/>
+<node id="SingLoRA"/>
+<node id="LoRA &amp;"/>
+<node id="91.3%"/>
+<node id="60%"/>
+<node id="0.151 DINO"/>
+<node id="DreamBooth"/>
+<node id="the Hugging Face Hub"/>
+<node id="Ubuntu"/>
+<node id="a Hugging Face Space"/>
+<node id="Ovis-U1"/>
+<node id="3-billion-parameter"/>
+<node id="2.07 gFID"/>
+<node id="3"/>
+<node id="Mizzen AI"/>
+<node id="1.08M"/>
+<edge source="Meta" target="GSM8">
+  <data key="d0">Achieves new</data>
+</edge>
+<edge source="Meta" target="K">
+  <data key="d0">Achieves new</data>
+</edge>
+<edge source="Meta" target="Math500">
+  <data key="d0">Achieves new</data>
+</edge>
+<edge source="Meta" target="AMC">
+  <data key="d0">Achieves new</data>
+</edge>
+<edge source="GSM8" target="K">
+  <data key="d0">K</data>
+</edge>
+<edge source="GSM8" target="Math500">
+  <data key="d0">K</data>
+</edge>
+<edge source="GSM8" target="AMC">
+  <data key="d0">K</data>
+</edge>
+<edge source="K" target="Math500">
+  <data key="d0">Math500</data>
+</edge>
+<edge source="K" target="AMC">
+  <data key="d0">K</data>
+</edge>
+<edge source="K" target="1000">
+  <data key="d0">images</data>
+</edge>
+<edge source="K" target="Hugging Face">
+  <data key="d0">images</data>
+</edge>
+<edge source="Math500" target="AMC">
+  <data key="d0">Math500</data>
+</edge>
+<edge source="ByteDance" target="Magic Bench on Hugging Face">
+  <data key="d0">released</data>
+</edge>
+<edge source="ByteDance" target="377">
+  <data key="d0">released</data>
+</edge>
+<edge source="ByteDance" target="9">
+  <data key="d0">released</data>
+</edge>
+<edge source="ByteDance" target="4+">
+  <data key="d0">tackles</data>
+</edge>
+<edge source="ByteDance" target="RewardDance">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="ByteDance" target="UXO Team">
+  <data key="d0">Team</data>
+</edge>
+<edge source="ByteDance" target="up to 4 min 15 sec">
+  <data key="d0">generates high</data>
+</edge>
+<edge source="ByteDance" target="Nanjing University">
+  <data key="d0">ByteDance</data>
+</edge>
+<edge source="ByteDance" target="PixNerd">
+  <data key="d0">present</data>
+</edge>
+<edge source="ByteDance" target="seconds">
+  <data key="d0">unifies</data>
+</edge>
+<edge source="Magic Bench on Hugging Face" target="377">
+  <data key="d0">Bench on</data>
+</edge>
+<edge source="Magic Bench on Hugging Face" target="9">
+  <data key="d0">Bench on</data>
+</edge>
+<edge source="377" target="9">
+  <data key="d0">prompts</data>
+</edge>
+<edge source="Princeton University" target="amp">
+  <data key="d0">University &amp;</data>
+</edge>
+<edge source="Princeton University" target="Gen-Verse">
+  <data key="d0">University</data>
+</edge>
+<edge source="Princeton University" target="TraceRL">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="amp" target="Gen-Verse">
+  <data key="d0">amp</data>
+</edge>
+<edge source="amp" target="TraceRL">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="amp" target="Virginia Tech">
+  <data key="d0">amp</data>
+</edge>
+<edge source="amp" target="MIT-Han-Lab">
+  <data key="d0">amp</data>
+</edge>
+<edge source="amp" target="Hugging Face">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="amp" target="Toyota">
+  <data key="d0">amp</data>
+</edge>
+<edge source="amp" target="CNN">
+  <data key="d0">is</data>
+</edge>
+<edge source="Gen-Verse" target="TraceRL">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="China" target="ByteDance">
+  <data key="d0">ByteDance</data>
+</edge>
+<edge source="China" target="RewardDance">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="2.59" target="MoCo/SimCLR">
+  <data key="d0">outperforms</data>
+</edge>
+<edge source="2.59" target="2025">
+  <data key="d0">outperforms</data>
+</edge>
+<edge source="MoCo/SimCLR" target="2025">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="InfGen" target="4">
+  <data key="d0">InfGen</data>
+</edge>
+<edge source="InfGen" target="InfGen">
+  <data key="d0">Learn more</data>
+</edge>
+<edge source="InfGen" target="Hugging Face">
+  <data key="d0">InfGen on</data>
+</edge>
+<edge source="4" target="InfGen">
+  <data key="d0">Learn more</data>
+</edge>
+<edge source="4" target="Hugging Face">
+  <data key="d0">Learn more</data>
+</edge>
+<edge source="Hugging Face" target="only 48">
+  <data key="d0">Face</data>
+</edge>
+<edge source="Hugging Face" target="1,000">
+  <data key="d0">challenges</data>
+</edge>
+<edge source="Hugging Face" target="10">
+  <data key="d0">challenges</data>
+</edge>
+<edge source="Hugging Face" target="100-200 FPS">
+  <data key="d0">Hugging</data>
+</edge>
+<edge source="nearly 50%" target="Hugging Face">
+  <data key="d0">Explore</data>
+</edge>
+<edge source="Alibaba Group" target="Visual-CoG">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="Alibaba Group" target="Hugging Face">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="Alibaba Group" target="Ovis-U1">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="Alibaba Group" target="3-billion-parameter">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="Visual-CoG" target="Hugging Face">
+  <data key="d0">CoG on</data>
+</edge>
+<edge source="Alibaba" target="Tsinghua University">
+  <data key="d0">Alibaba</data>
+</edge>
+<edge source="Alibaba" target="Hugging Face">
+  <data key="d0">released</data>
+</edge>
+<edge source="Alibaba" target="only 48">
+  <data key="d0">released</data>
+</edge>
+<edge source="MV" target="Hugging Face">
+  <data key="d0">is</data>
+</edge>
+<edge source="Huawei Cloud" target="Discrete Diffusion VLA">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="Google DeepMind" target="Max Planck Institute">
+  <data key="d0">DeepMind</data>
+</edge>
+<edge source="Google DeepMind" target="Prophet">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="Google DeepMind" target="up to 3.4x">
+  <data key="d0">leverages</data>
+</edge>
+<edge source="Max Planck Institute" target="Prophet">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="Max Planck Institute" target="up to 3.4x">
+  <data key="d0">leverages</data>
+</edge>
+<edge source="Prophet" target="up to 3.4x">
+  <data key="d0">leverages</data>
+</edge>
+<edge source="Tinker" target="zero">
+  <data key="d0">step towards scalable</data>
+</edge>
+<edge source="Tinker" target="Hugging Face">
+  <data key="d0">Discuss with</data>
+</edge>
+<edge source="zero" target="Hugging Face">
+  <data key="d0">Discuss with</data>
+</edge>
+<edge source="NVIDIA" target="Lyra">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="NVIDIA" target="amp">
+  <data key="d0">NVIDIA &amp;</data>
+</edge>
+<edge source="NVIDIA" target="MIT-Han-Lab">
+  <data key="d0">NVIDIA</data>
+</edge>
+<edge source="NVIDIA" target="Hugging Face">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="NVIDIA" target="100-200 FPS">
+  <data key="d0">Reconstruct high</data>
+</edge>
+<edge source="Skywork AI's" target="RTX 4090">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="Skywork AI's" target="One">
+  <data key="d0">One</data>
+</edge>
+<edge source="RTX 4090" target="One">
+  <data key="d0">RTX</data>
+</edge>
+<edge source="Nanjing University" target="PixNerd">
+  <data key="d0">PixNerd</data>
+</edge>
+<edge source="Story2Board" target="Hugging Face">
+  <data key="d0">landed on</data>
+</edge>
+<edge source="Voost" target="Diffusion Transformer">
+  <data key="d0">approach to virtual</data>
+</edge>
+<edge source="Voost" target="Zero">
+  <data key="d0">approach to virtual</data>
+</edge>
+<edge source="Voost" target="Hugging Face">
+  <data key="d0">read</data>
+</edge>
+<edge source="Diffusion Transformer" target="Hugging Face">
+  <data key="d0">read</data>
+</edge>
+<edge source="GE-Base" target="GE-Act">
+  <data key="d0">Base</data>
+</edge>
+<edge source="GE-Base" target="GE-Sim">
+  <data key="d0">Base</data>
+</edge>
+<edge source="GE-Act" target="GE-Sim">
+  <data key="d0">Act</data>
+</edge>
+<edge source="ByteDance Seed" target="2,146">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="ByteDance Seed" target="H20">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="ByteDance Seed" target="Hyper">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="ByteDance Seed" target="-">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="ByteDance Seed" target="Bagel">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="ByteDance Seed" target="16.67x for">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="ByteDance Seed" target="22x">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="2,146" target="H20">
+  <data key="d0">tokens</data>
+</edge>
+<edge source="Zero" target="Diffusion Transformer">
+  <data key="d0">networks</data>
+</edge>
+<edge source="Zero" target="Hugging Face">
+  <data key="d0">read</data>
+</edge>
+<edge source="DAEDAL" target="Hugging Face">
+  <data key="d0">Explore</data>
+</edge>
+<edge source="MultiRef" target="first">
+  <data key="d0">MultiRef</data>
+</edge>
+<edge source="MultiRef" target="38">
+  <data key="d0">Datasets with</data>
+</edge>
+<edge source="MultiRef" target="K">
+  <data key="d0">Datasets with</data>
+</edge>
+<edge source="MultiRef" target="1000">
+  <data key="d0">Datasets with</data>
+</edge>
+<edge source="MultiRef" target="Hugging Face">
+  <data key="d0">Datasets with</data>
+</edge>
+<edge source="first" target="38">
+  <data key="d0">Datasets with</data>
+</edge>
+<edge source="first" target="K">
+  <data key="d0">Datasets with</data>
+</edge>
+<edge source="first" target="1000">
+  <data key="d0">Datasets with</data>
+</edge>
+<edge source="first" target="Hugging Face">
+  <data key="d0">is</data>
+</edge>
+<edge source="first" target="1,000">
+  <data key="d0">challenges</data>
+</edge>
+<edge source="first" target="10">
+  <data key="d0">challenges</data>
+</edge>
+<edge source="first" target="ACM MM 2025">
+  <data key="d0">Accepted to</data>
+</edge>
+<edge source="38" target="K">
+  <data key="d0">K</data>
+</edge>
+<edge source="38" target="1000">
+  <data key="d0">images</data>
+</edge>
+<edge source="38" target="Hugging Face">
+  <data key="d0">images</data>
+</edge>
+<edge source="1000" target="Hugging Face">
+  <data key="d0">samples</data>
+</edge>
+<edge source="Tencent Hunyuan X" target="X-Omni Reinforcement">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="T-LoRA" target="Diffusion Models">
+  <data key="d0">Customize</data>
+</edge>
+<edge source="T-LoRA" target="one">
+  <data key="d0">Customize</data>
+</edge>
+<edge source="Diffusion Models" target="one">
+  <data key="d0">Models with</data>
+</edge>
+<edge source="RALU" target="Hugging Face">
+  <data key="d0">Explore</data>
+</edge>
+<edge source="MindJourney" target="zero">
+  <data key="d0">A</data>
+</edge>
+<edge source="UMO" target="ByteDance">
+  <data key="d0">sourced by</data>
+</edge>
+<edge source="Meta &amp;" target="amp">
+  <data key="d0">amp</data>
+</edge>
+<edge source="Meta &amp;" target="Virginia Tech">
+  <data key="d0">&amp;</data>
+</edge>
+<edge source="Apple" target="DiffuCoder">
+  <data key="d0">released</data>
+</edge>
+<edge source="Apple" target="Hugging Face">
+  <data key="d0">released</data>
+</edge>
+<edge source="DiffuCoder" target="Hugging Face">
+  <data key="d0">DiffuCoder on</data>
+</edge>
+<edge source="MIT-Han-Lab" target="Hugging Face">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="Sber AI's" target="InnerControl">
+  <data key="d0">InnerControl</data>
+</edge>
+<edge source="InnerControl" target="ControlNet">
+  <data key="d0">enforces spatial</data>
+</edge>
+<edge source="InnerControl" target="ControlNet++">
+  <data key="d0">enforces spatial</data>
+</edge>
+<edge source="91" target="just 6 hours">
+  <data key="d0">aligns multimodal</data>
+</edge>
+<edge source="91" target="A800">
+  <data key="d0">aligns multimodal</data>
+</edge>
+<edge source="just 6 hours" target="A800">
+  <data key="d0">hours on</data>
+</edge>
+<edge source="Google DeepMind's" target="Blender">
+  <data key="d0">edit</data>
+</edge>
+<edge source="FreeMorph" target="two">
+  <data key="d0">FreeMorph</data>
+</edge>
+<edge source="2" target="Diffusion Transformers">
+  <data key="d0">scale</data>
+</edge>
+<edge source="Diffusion Transformers" target="FLUX &amp;">
+  <data key="d0">Transformers</data>
+</edge>
+<edge source="Diffusion Transformers" target="3x">
+  <data key="d0">Transformers</data>
+</edge>
+<edge source="Diffusion Transformers" target="Stable Diffusion 3">
+  <data key="d0">Transformers</data>
+</edge>
+<edge source="ControlNet" target="ControlNet++">
+  <data key="d0">ControlNet</data>
+</edge>
+<edge source="FLUX &amp;" target="3x">
+  <data key="d0">FLUX</data>
+</edge>
+<edge source="FLUX &amp;" target="Stable Diffusion 3">
+  <data key="d0">&amp;</data>
+</edge>
+<edge source="3x" target="Stable Diffusion 3">
+  <data key="d0">3x on Stable</data>
+</edge>
+<edge source="1,000" target="10">
+  <data key="d0">prompts across</data>
+</edge>
+<edge source="Ant Group" target="LangScene-X">
+  <data key="d0">released</data>
+</edge>
+<edge source="Ant Group" target="Hugging Face">
+  <data key="d0">released</data>
+</edge>
+<edge source="LangScene-X" target="Hugging Face">
+  <data key="d0">X on</data>
+</edge>
+<edge source="Tencent" target="Pref-GRPO">
+  <data key="d0">launched</data>
+</edge>
+<edge source="Tencent" target="Hugging Face">
+  <data key="d0">launched</data>
+</edge>
+<edge source="Pref-GRPO" target="Hugging Face">
+  <data key="d0">GRPO on</data>
+</edge>
+<edge source="Hyper" target="-">
+  <data key="d0">Hyper-</data>
+</edge>
+<edge source="Hyper" target="Bagel">
+  <data key="d0">Bagel</data>
+</edge>
+<edge source="Hyper" target="16.67x for">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="Hyper" target="22x">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="-" target="Bagel">
+  <data key="d0">-Bagel</data>
+</edge>
+<edge source="-" target="16.67x for">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="-" target="22x">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="Bagel" target="16.67x for">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="Bagel" target="22x">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="16.67x for" target="22x">
+  <data key="d0">16.67x for</data>
+</edge>
+<edge source="StepFun AI" target="NextStep-1">
+  <data key="d0">unveiled</data>
+</edge>
+<edge source="StepFun AI" target="Iron Man">
+  <data key="d0">Like</data>
+</edge>
+<edge source="NextStep-1" target="Iron Man">
+  <data key="d0">Like</data>
+</edge>
+<edge source="MIT" target="amp">
+  <data key="d0">MIT &amp;</data>
+</edge>
+<edge source="MIT" target="Toyota">
+  <data key="d0">MIT</data>
+</edge>
+<edge source="MIT" target="CNN">
+  <data key="d0">is</data>
+</edge>
+<edge source="Toyota" target="CNN">
+  <data key="d0">is</data>
+</edge>
+<edge source="4K" target="under 10 seconds">
+  <data key="d0">time to</data>
+</edge>
+<edge source="4K" target="one">
+  <data key="d0">replaces</data>
+</edge>
+<edge source="under 10 seconds" target="one">
+  <data key="d0">replaces</data>
+</edge>
+<edge source="Tsinghua" target="UC Berkeley">
+  <data key="d0">Tsinghua</data>
+</edge>
+<edge source="Tsinghua" target="95%">
+  <data key="d0">reduces</data>
+</edge>
+<edge source="Tsinghua" target="13.7x kernel">
+  <data key="d0">reduces</data>
+</edge>
+<edge source="Tsinghua" target="2.2x">
+  <data key="d0">reduces</data>
+</edge>
+<edge source="UC Berkeley" target="95%">
+  <data key="d0">reduces</data>
+</edge>
+<edge source="UC Berkeley" target="13.7x kernel">
+  <data key="d0">reduces</data>
+</edge>
+<edge source="UC Berkeley" target="2.2x">
+  <data key="d0">reduces</data>
+</edge>
+<edge source="95%" target="13.7x kernel">
+  <data key="d0">%</data>
+</edge>
+<edge source="95%" target="2.2x">
+  <data key="d0">%</data>
+</edge>
+<edge source="13.7x kernel" target="2.2x">
+  <data key="d0">speedup</data>
+</edge>
+<edge source="SingLoRA" target="LoRA &amp;">
+  <data key="d0">outperforms</data>
+</edge>
+<edge source="SingLoRA" target="91.3%">
+  <data key="d0">outperforms</data>
+</edge>
+<edge source="SingLoRA" target="60%">
+  <data key="d0">outperforms</data>
+</edge>
+<edge source="SingLoRA" target="0.151 DINO">
+  <data key="d0">DINO</data>
+</edge>
+<edge source="SingLoRA" target="DreamBooth">
+  <data key="d0">score on</data>
+</edge>
+<edge source="SingLoRA" target="the Hugging Face Hub">
+  <data key="d0">Share</data>
+</edge>
+<edge source="LoRA &amp;" target="91.3%">
+  <data key="d0">&amp;</data>
+</edge>
+<edge source="LoRA &amp;" target="60%">
+  <data key="d0">LoRA</data>
+</edge>
+<edge source="LoRA &amp;" target="0.151 DINO">
+  <data key="d0">DINO</data>
+</edge>
+<edge source="LoRA &amp;" target="DreamBooth">
+  <data key="d0">score on</data>
+</edge>
+<edge source="LoRA &amp;" target="the Hugging Face Hub">
+  <data key="d0">Read</data>
+</edge>
+<edge source="91.3%" target="60%">
+  <data key="d0">acc</data>
+</edge>
+<edge source="91.3%" target="0.151 DINO">
+  <data key="d0">DINO</data>
+</edge>
+<edge source="91.3%" target="DreamBooth">
+  <data key="d0">score on</data>
+</edge>
+<edge source="91.3%" target="the Hugging Face Hub">
+  <data key="d0">Read</data>
+</edge>
+<edge source="60%" target="0.151 DINO">
+  <data key="d0">DINO</data>
+</edge>
+<edge source="60%" target="DreamBooth">
+  <data key="d0">score on</data>
+</edge>
+<edge source="60%" target="the Hugging Face Hub">
+  <data key="d0">Read</data>
+</edge>
+<edge source="0.151 DINO" target="DreamBooth">
+  <data key="d0">score on</data>
+</edge>
+<edge source="0.151 DINO" target="the Hugging Face Hub">
+  <data key="d0">Read</data>
+</edge>
+<edge source="DreamBooth" target="the Hugging Face Hub">
+  <data key="d0">Read</data>
+</edge>
+<edge source="Ubuntu" target="a Hugging Face Space">
+  <data key="d0">Try</data>
+</edge>
+<edge source="Ovis-U1" target="3-billion-parameter">
+  <data key="d0">U1</data>
+</edge>
+<edge source="2.07 gFID" target="3">
+  <data key="d0">gFID on</data>
+</edge>
+<edge source="Mizzen AI" target="1.08M">
+  <data key="d0">includes</data>
+</edge>
+</graph></graphml>
